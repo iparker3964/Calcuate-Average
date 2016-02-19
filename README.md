@@ -15,7 +15,8 @@ This program calulates average scores
 The program can be run from the command line prompt. 
 
 ##Sample Code
-**Atributes**
+
+**Attributes**
 ```
 double total[]={0};
 double average=0;	
